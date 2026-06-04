@@ -238,6 +238,18 @@
             "canonical_exchange": "Binance"
         },
         {
+            "name": "SINC",
+            "ticker": "SINC",
+            "0x9C8cd8d3961F445D653713dE65C6578bE11668e7",
+            "decimals": 8,
+            "supported_exchanges": {
+                "Aerodrome": "SINC",
+                "Uniswap": "SINC"
+            },
+            "logo_url": "https://ibb.co/GvKNJ1gs",
+            "canonical_exchange": "Coinbase"
+        },
+        {{
             "name": "B3",
             "ticker": "B3",
             "address": "0xB3B32F9f8827D4634fE7d973Fa1034Ec9fdDB3B3",
